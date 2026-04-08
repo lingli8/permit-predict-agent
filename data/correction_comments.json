@@ -1,0 +1,674 @@
+[
+  {
+    "id": "eca_corr_001",
+    "review_type": "ECA/GeoTech",
+    "content": "Geotechnical report does not address seismic hazard per ASCE 7. The report must explicitly evaluate liquefaction potential, lateral spreading, and seismic-induced settlement for the site conditions.",
+    "metadata": {
+      "review_type": "ECA/GeoTech",
+      "entry_type": "correction",
+      "avg_days_added": 45,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "eca_corr_002",
+    "review_type": "ECA/GeoTech",
+    "content": "Missing slope stability analysis for lots with greater than 15% grade. Projects on steep slopes require a geotechnical slope stability report demonstrating factor of safety under static and seismic loading conditions.",
+    "metadata": {
+      "review_type": "ECA/GeoTech",
+      "entry_type": "correction",
+      "avg_days_added": 45,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "eca_corr_003",
+    "review_type": "ECA/GeoTech",
+    "content": "ECA boundary delineation not based on current LiDAR data. The Environmentally Critical Area boundary must be delineated using the City's most current LiDAR topographic data by a licensed geologist or engineer.",
+    "metadata": {
+      "review_type": "ECA/GeoTech",
+      "entry_type": "correction",
+      "avg_days_added": 45,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration", "Grading"]
+    }
+  },
+  {
+    "id": "eca_corr_004",
+    "review_type": "ECA/GeoTech",
+    "content": "Drainage plan conflicts with ECA buffer requirements. Proposed drainage improvements encroach into the required ECA buffer zone. Revise grading and drainage to remain outside the buffer or obtain an ECA alteration permit.",
+    "metadata": {
+      "review_type": "ECA/GeoTech",
+      "entry_type": "correction",
+      "avg_days_added": 45,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration", "Grading"]
+    }
+  },
+  {
+    "id": "eca_corr_005",
+    "review_type": "ECA/GeoTech",
+    "content": "Retaining wall design lacks geotechnical engineer stamp. All retaining walls over 4 feet in height or within an ECA must be designed by a Washington State licensed geotechnical or structural engineer with a wet stamp on construction documents.",
+    "metadata": {
+      "review_type": "ECA/GeoTech",
+      "entry_type": "correction",
+      "avg_days_added": 45,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration", "Grading"]
+    }
+  },
+  {
+    "id": "eca_tip_001",
+    "review_type": "ECA/GeoTech",
+    "content": "Order your geotech report BEFORE submitting — lead times are 3-6 weeks. ECA/GeoTech review is often the longest review path; starting the geotech study early prevents it from becoming the critical-path delay.",
+    "metadata": {
+      "review_type": "ECA/GeoTech",
+      "entry_type": "tip",
+      "avg_days_added": 45,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "eca_tip_002",
+    "review_type": "ECA/GeoTech",
+    "content": "Ensure the geotechnical report explicitly addresses all SMC 25.09 hazard categories: landslide, liquefaction, peat settlement, and steep slope. Missing any category is an automatic correction.",
+    "metadata": {
+      "review_type": "ECA/GeoTech",
+      "entry_type": "tip",
+      "avg_days_added": 45,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "eca_tip_003",
+    "review_type": "ECA/GeoTech",
+    "content": "If your lot is in a mapped ECA, include an ECA boundary survey from a licensed geologist with the initial submittal. Submitting without it guarantees a correction and a 2-4 week delay while you obtain the survey.",
+    "metadata": {
+      "review_type": "ECA/GeoTech",
+      "entry_type": "tip",
+      "avg_days_added": 45,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "eca_tip_004",
+    "review_type": "ECA/GeoTech",
+    "content": "Budget 30-60 extra days for projects requiring ECA review. Unlike other reviews, ECA corrections often require going back to the geotechnical consultant and waiting for a new report revision before resubmittal.",
+    "metadata": {
+      "review_type": "ECA/GeoTech",
+      "entry_type": "tip",
+      "avg_days_added": 45,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "drainage_corr_001",
+    "review_type": "Drainage",
+    "content": "Flow control calculations do not use current WWHM model version. All stormwater flow control analyses must use the current release of the Western Washington Hydrology Model (WWHM) with the Seattle-specific precipitation data.",
+    "metadata": {
+      "review_type": "Drainage",
+      "entry_type": "correction",
+      "avg_days_added": 30,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration", "Grading"]
+    }
+  },
+  {
+    "id": "drainage_corr_002",
+    "review_type": "Drainage",
+    "content": "Side sewer plan missing SPU connection permit reference. The drainage plan must reference the Seattle Public Utilities side sewer connection permit number, or include documentation that the connection has been applied for.",
+    "metadata": {
+      "review_type": "Drainage",
+      "entry_type": "correction",
+      "avg_days_added": 30,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "drainage_corr_003",
+    "review_type": "Drainage",
+    "content": "Infiltration testing not performed per SPU requirements. On-site infiltration facilities require percolation testing at the design depth, conducted per SPU standard methods. Results must be submitted with the drainage report.",
+    "metadata": {
+      "review_type": "Drainage",
+      "entry_type": "correction",
+      "avg_days_added": 30,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "drainage_corr_004",
+    "review_type": "Drainage",
+    "content": "Stormwater site plan does not show all impervious surfaces. Every impervious surface including driveways, walkways, patios, and roof areas must be shown and quantified on the stormwater site plan to accurately calculate runoff.",
+    "metadata": {
+      "review_type": "Drainage",
+      "entry_type": "correction",
+      "avg_days_added": 30,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration", "Grading"]
+    }
+  },
+  {
+    "id": "drainage_corr_005",
+    "review_type": "Drainage",
+    "content": "Missing maintenance agreement for private stormwater facilities. A recorded maintenance agreement with the City of Seattle is required before permit issuance for all private stormwater detention, retention, or treatment facilities.",
+    "metadata": {
+      "review_type": "Drainage",
+      "entry_type": "correction",
+      "avg_days_added": 30,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "drainage_tip_001",
+    "review_type": "Drainage",
+    "content": "Use the latest version of WWHM (Western Washington Hydrology Model) for all stormwater calculations. Using an outdated version is an automatic correction that adds 2-3 weeks to your review.",
+    "metadata": {
+      "review_type": "Drainage",
+      "entry_type": "tip",
+      "avg_days_added": 30,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "drainage_tip_002",
+    "review_type": "Drainage",
+    "content": "Contact SPU early to confirm side sewer capacity — this is a common surprise blocker. If the existing side sewer lacks capacity, you may need a new connection or upsizing, which can add months to the project.",
+    "metadata": {
+      "review_type": "Drainage",
+      "entry_type": "tip",
+      "avg_days_added": 30,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "drainage_tip_003",
+    "review_type": "Drainage",
+    "content": "For projects over 5,000 sq ft of new impervious surface, full drainage review is required by SDCI. Plan for the additional review time (typically 30 extra days) and include a complete drainage report from a licensed engineer.",
+    "metadata": {
+      "review_type": "Drainage",
+      "entry_type": "tip",
+      "avg_days_added": 30,
+      "applies_to_cost_range": "high",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "structural_corr_001",
+    "review_type": "Structural",
+    "content": "Structural calculations not signed by WA-licensed PE. All structural calculations and drawings must bear the wet stamp and signature of a licensed Washington State Professional Engineer.",
+    "metadata": {
+      "review_type": "Structural",
+      "entry_type": "correction",
+      "avg_days_added": 35,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "structural_corr_002",
+    "review_type": "Structural",
+    "content": "Lateral load path incomplete — missing hold-down schedule. The structural drawings must show a complete continuous load path for lateral (seismic and wind) forces from the roof diaphragm through the shear walls to the foundation, including a complete hold-down and anchor bolt schedule.",
+    "metadata": {
+      "review_type": "Structural",
+      "entry_type": "correction",
+      "avg_days_added": 35,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "structural_corr_003",
+    "review_type": "Structural",
+    "content": "Foundation design does not match geotechnical recommendations. The allowable bearing capacity, frost depth, minimum embedment, and drainage requirements used in the foundation design must exactly match the values specified in the project geotechnical report.",
+    "metadata": {
+      "review_type": "Structural",
+      "entry_type": "correction",
+      "avg_days_added": 35,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "structural_corr_004",
+    "review_type": "Structural",
+    "content": "Beam-to-column connections not detailed per AISC or NDS. All beam-to-column and beam-to-beam connections must be explicitly detailed and sized. Generic notes are not acceptable — show connection type, bolt size, weld size, or connector model number.",
+    "metadata": {
+      "review_type": "Structural",
+      "entry_type": "correction",
+      "avg_days_added": 35,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "structural_corr_005",
+    "review_type": "Structural",
+    "content": "Seismic detailing inadequate for Risk Category II or higher. Projects classified as Risk Category II (standard occupancy) or higher require special seismic detailing per ASCE 7 and IBC, including special inspection requirements that must be specified on the drawings.",
+    "metadata": {
+      "review_type": "Structural",
+      "entry_type": "correction",
+      "avg_days_added": 35,
+      "applies_to_cost_range": "high",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "structural_tip_001",
+    "review_type": "Structural",
+    "content": "Have your structural engineer review the geotech report BEFORE starting calculations. Mismatches between the geotech report values and structural design assumptions are one of the most common sources of corrections.",
+    "metadata": {
+      "review_type": "Structural",
+      "entry_type": "tip",
+      "avg_days_added": 35,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "structural_tip_002",
+    "review_type": "Structural",
+    "content": "Include a complete lateral load path diagram — this single detail catches most structural corrections before submittal. Show forces from roof to foundation with all connections and shear walls labeled.",
+    "metadata": {
+      "review_type": "Structural",
+      "entry_type": "tip",
+      "avg_days_added": 35,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "structural_tip_003",
+    "review_type": "Structural",
+    "content": "For wood-frame construction, provide a complete hold-down and anchor bolt schedule with every shear wall labeled on plan. Missing hold-down schedules are the number one structural correction on residential wood-frame projects.",
+    "metadata": {
+      "review_type": "Structural",
+      "entry_type": "tip",
+      "avg_days_added": 35,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "zoning_corr_001",
+    "review_type": "Zoning",
+    "content": "FAR calculation does not exclude exempt areas correctly. Floor Area Ratio calculations must follow SMC 23.86.006 exactly: below-grade parking, certain mechanical spaces, and covered but unenclosed areas may be exempt depending on the zone.",
+    "metadata": {
+      "review_type": "Zoning",
+      "entry_type": "correction",
+      "avg_days_added": 25,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "zoning_corr_002",
+    "review_type": "Zoning",
+    "content": "Setback encroachments not addressed or variance not applied for. Any portion of the structure that encroaches into a required setback must either be redesigned to comply or have an active setback variance application. Show all setbacks dimensioned on the site plan.",
+    "metadata": {
+      "review_type": "Zoning",
+      "entry_type": "correction",
+      "avg_days_added": 25,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "zoning_corr_003",
+    "review_type": "Zoning",
+    "content": "Lot coverage exceeds maximum for zone — ADU not accounted for. When an Accessory Dwelling Unit is added or existing, it must be included in the total lot coverage calculation. Many projects exceed coverage limits when the ADU footprint is added.",
+    "metadata": {
+      "review_type": "Zoning",
+      "entry_type": "correction",
+      "avg_days_added": 25,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "zoning_corr_004",
+    "review_type": "Zoning",
+    "content": "Height measurement taken from wrong datum point. Building height must be measured per SMC 23.86.006 from the existing grade or finished grade (whichever is lower at each point), not from an arbitrary datum. Show height calculation diagram on plans.",
+    "metadata": {
+      "review_type": "Zoning",
+      "entry_type": "correction",
+      "avg_days_added": 25,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "zoning_corr_005",
+    "review_type": "Zoning",
+    "content": "Parking count does not meet minimum for proposed use. The number of parking stalls must meet the minimum required under SMC 23.54 for the proposed use. Show parking count, dimensions, and aisle widths on the site plan.",
+    "metadata": {
+      "review_type": "Zoning",
+      "entry_type": "correction",
+      "avg_days_added": 25,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration", "Change of Use"]
+    }
+  },
+  {
+    "id": "zoning_tip_001",
+    "review_type": "Zoning",
+    "content": "Double-check FAR calculations — this is the number one zoning correction. Use the SDCI Land Use Code calculator and include a line-by-line tabulation showing gross floor area, exemptions, and net FAR on the plan cover sheet.",
+    "metadata": {
+      "review_type": "Zoning",
+      "entry_type": "tip",
+      "avg_days_added": 25,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "zoning_tip_002",
+    "review_type": "Zoning",
+    "content": "Use the SDCI Tip Sheet for your specific zone (available on seattle.gov) as a checklist before submitting. Each zone has unique requirements and the tip sheets summarize all the key thresholds in plain language.",
+    "metadata": {
+      "review_type": "Zoning",
+      "entry_type": "tip",
+      "avg_days_added": 25,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "zoning_tip_003",
+    "review_type": "Zoning",
+    "content": "If you are within 2% of any zoning limit (FAR, height, setback, coverage), consider redesigning. Reviewers may apply different interpretations, and a 2% margin provides no buffer against minor measurement differences.",
+    "metadata": {
+      "review_type": "Zoning",
+      "entry_type": "tip",
+      "avg_days_added": 25,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "energy_corr_001",
+    "review_type": "Energy",
+    "content": "UA calculation does not include all envelope components. The overall thermal transmittance (UA) calculation must account for all walls, roofs, floors, windows, doors, and skylights. Missing any component results in an incomplete energy analysis.",
+    "metadata": {
+      "review_type": "Energy",
+      "entry_type": "correction",
+      "avg_days_added": 20,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "energy_corr_002",
+    "review_type": "Energy",
+    "content": "Mechanical equipment efficiency does not meet WSEC minimum. All HVAC equipment must meet or exceed the minimum efficiency ratings specified in the Washington State Energy Code. Include manufacturer cut sheets showing rated efficiency for all equipment.",
+    "metadata": {
+      "review_type": "Energy",
+      "entry_type": "correction",
+      "avg_days_added": 20,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "energy_corr_003",
+    "review_type": "Energy",
+    "content": "Duct leakage testing protocol not specified. Washington State Energy Code requires duct leakage testing for new HVAC systems. The testing protocol, acceptance criteria, and party responsible for testing must be specified on the mechanical plans.",
+    "metadata": {
+      "review_type": "Energy",
+      "entry_type": "correction",
+      "avg_days_added": 20,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "energy_corr_004",
+    "review_type": "Energy",
+    "content": "Lighting power density exceeds code maximum. The installed lighting power density (LPD) in watts per square foot must not exceed the WSEC allowance for the space type. Provide a room-by-room LPD calculation on the electrical plans.",
+    "metadata": {
+      "review_type": "Energy",
+      "entry_type": "correction",
+      "avg_days_added": 20,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "energy_corr_005",
+    "review_type": "Energy",
+    "content": "Missing WSEC compliance form — residential checklist or COMcheck report not submitted. Energy code compliance must be demonstrated by submitting either the completed WSEC residential compliance checklist or a COMcheck report (commercial) with the permit application.",
+    "metadata": {
+      "review_type": "Energy",
+      "entry_type": "correction",
+      "avg_days_added": 20,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "energy_tip_001",
+    "review_type": "Energy",
+    "content": "Use COMcheck (commercial) or the WSEC residential checklist and submit the actual compliance form with your application. The form is the reviewer's primary tool — without it, energy review cannot start.",
+    "metadata": {
+      "review_type": "Energy",
+      "entry_type": "tip",
+      "avg_days_added": 20,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "energy_tip_002",
+    "review_type": "Energy",
+    "content": "Pre-calculate UA values and include them on the plan set — do not make the reviewer do the math. A clear energy table on the cover sheet showing each assembly, its R-value, area, and UA contribution speeds review significantly.",
+    "metadata": {
+      "review_type": "Energy",
+      "entry_type": "tip",
+      "avg_days_added": 20,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "energy_tip_003",
+    "review_type": "Energy",
+    "content": "LED lighting is the easiest path to energy code compliance for commercial projects. LED luminaires typically achieve LPD well below WSEC maximums, giving you compliance headroom without complex calculations.",
+    "metadata": {
+      "review_type": "Energy",
+      "entry_type": "tip",
+      "avg_days_added": 20,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "fire_corr_001",
+    "review_type": "Fire",
+    "content": "Fire department access road width less than 20 feet. SFD requires a minimum unobstructed fire access road width of 20 feet. Show access road widths dimensioned on the site plan and confirm no parking or obstructions within the access easement.",
+    "metadata": {
+      "review_type": "Fire",
+      "entry_type": "correction",
+      "avg_days_added": 25,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "fire_corr_002",
+    "review_type": "Fire",
+    "content": "Fire hydrant spacing does not meet SFD requirements. Hydrant locations must provide coverage at the maximum spacing required for the building's occupancy and construction type. Show all existing and proposed hydrants on the site plan with dimensions to structure.",
+    "metadata": {
+      "review_type": "Fire",
+      "entry_type": "correction",
+      "avg_days_added": 25,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "fire_corr_003",
+    "review_type": "Fire",
+    "content": "Sprinkler system required but not shown on plans. Based on building area, occupancy type, or construction type, a fire sprinkler system is required under SMC 22.600 but is not shown on the submitted plans. Include a sprinkler system layout or provide a basis for exemption.",
+    "metadata": {
+      "review_type": "Fire",
+      "entry_type": "correction",
+      "avg_days_added": 25,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "fire_corr_004",
+    "review_type": "Fire",
+    "content": "Emergency egress path not code compliant. Exit access travel distances, corridor widths, exit signage locations, or emergency lighting coverage do not meet IBC requirements. Revise floor plans to show complete egress analysis with travel distances dimensioned.",
+    "metadata": {
+      "review_type": "Fire",
+      "entry_type": "correction",
+      "avg_days_added": 25,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "fire_corr_005",
+    "review_type": "Fire",
+    "content": "Fire-resistance-rated assembly details missing or incomplete. All fire-rated assemblies (walls, floors, ceilings) must reference an approved assembly listing (UL, GA, or IBC Table) with full details. Generic notes like '2-hour wall' are not acceptable.",
+    "metadata": {
+      "review_type": "Fire",
+      "entry_type": "correction",
+      "avg_days_added": 25,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "fire_tip_001",
+    "review_type": "Fire",
+    "content": "For any building over 5,000 sq ft, assume sprinklers are required and include them in the initial plans. Designing for sprinklers from the start avoids a major redesign correction that typically costs 3-4 weeks of delay.",
+    "metadata": {
+      "review_type": "Fire",
+      "entry_type": "tip",
+      "avg_days_added": 25,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building"]
+    }
+  },
+  {
+    "id": "fire_tip_002",
+    "review_type": "Fire",
+    "content": "Show fire truck turning radius on the site plan — minimum 28-foot inside radius for SFD apparatus. This is a frequent correction on projects with tight access drives or cul-de-sacs.",
+    "metadata": {
+      "review_type": "Fire",
+      "entry_type": "tip",
+      "avg_days_added": 25,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "fire_tip_003",
+    "review_type": "Fire",
+    "content": "Schedule a pre-application meeting with SFD for any project with assembly occupancy (A-1 through A-5). SFD's pre-application conference will surface all fire access, hydrant, sprinkler, and egress requirements before you invest in full construction documents.",
+    "metadata": {
+      "review_type": "Fire",
+      "entry_type": "tip",
+      "avg_days_added": 25,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "mechanical_corr_001",
+    "review_type": "Mechanical",
+    "content": "Mechanical ventilation calculations not provided for commercial spaces. ASHRAE 62.1 / IMC ventilation calculations showing required outdoor air rates per person and per square foot must be submitted for all commercial occupancies.",
+    "metadata": {
+      "review_type": "Mechanical",
+      "entry_type": "correction",
+      "avg_days_added": 15,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "mechanical_corr_002",
+    "review_type": "Mechanical",
+    "content": "Gas piping sizing not shown or undersized for total BTU load. The gas piping system must be sized for the total connected load including all appliances. Provide a gas piping sizing table referencing IFGC Table 402.4 or equivalent.",
+    "metadata": {
+      "review_type": "Mechanical",
+      "entry_type": "correction",
+      "avg_days_added": 15,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "mechanical_corr_003",
+    "review_type": "Mechanical",
+    "content": "Exhaust system for Type I commercial hood not detailed. Restaurant Type I exhaust hoods require complete details including hood dimensions, capture velocity calculations, makeup air quantity and direction, and grease duct routing and clearances.",
+    "metadata": {
+      "review_type": "Mechanical",
+      "entry_type": "correction",
+      "avg_days_added": 15,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration", "Change of Use"]
+    }
+  },
+  {
+    "id": "mechanical_corr_004",
+    "review_type": "Mechanical",
+    "content": "Heat pump installation does not show sound attenuation details. Heat pump outdoor units must demonstrate compliance with Seattle's noise ordinance (SMC 25.08). Provide manufacturer dB(A) ratings and confirm setback from property lines meets noise requirements.",
+    "metadata": {
+      "review_type": "Mechanical",
+      "entry_type": "correction",
+      "avg_days_added": 15,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "mechanical_corr_005",
+    "review_type": "Mechanical",
+    "content": "Refrigerant piping not addressed per IMC requirements. Show refrigerant line routing, insulation, leak detection provisions, and refrigerant type and quantity on the mechanical plans. Refrigerant quantity may trigger mechanical room requirements.",
+    "metadata": {
+      "review_type": "Mechanical",
+      "entry_type": "correction",
+      "avg_days_added": 15,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  },
+  {
+    "id": "mechanical_tip_001",
+    "review_type": "Mechanical",
+    "content": "For restaurants: include Type I and II hood details and makeup air calculations from day one. Commercial kitchen ventilation is one of the most frequently incomplete submittals and can add 2-3 weeks to mechanical review.",
+    "metadata": {
+      "review_type": "Mechanical",
+      "entry_type": "tip",
+      "avg_days_added": 15,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration", "Change of Use"]
+    }
+  },
+  {
+    "id": "mechanical_tip_002",
+    "review_type": "Mechanical",
+    "content": "Heat pump noise is increasingly scrutinized by Seattle reviewers — include manufacturer dB(A) ratings and confirm compliance with SMC 25.08 setback from property lines. This is now one of the top-5 mechanical corrections for residential projects.",
+    "metadata": {
+      "review_type": "Mechanical",
+      "entry_type": "tip",
+      "avg_days_added": 15,
+      "applies_to_cost_range": "all",
+      "applies_to_permit_types": ["New Building", "Addition/Alteration"]
+    }
+  }
+]
